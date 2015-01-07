@@ -12,8 +12,7 @@ You should has admin/root access permission to run nodejs server
 
 Circuit breaker proxy will help you to protect your https services from the casecading failures due to unexpected networks failures / huge stress/load requests.
 
-# Instructioy
-ns
+# Instructions
 
 ## Step 1:  Run Sample Application : Address API
 
