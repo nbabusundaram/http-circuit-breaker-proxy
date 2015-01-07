@@ -1,0 +1,13 @@
+{
+  "name": "tescodemo-docker-addressservice",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Experimental Project for Google Kubernates",
+  "author": "Nithyanantha Babu <nbabu.sundaram@gmail.com>",
+  "dependencies": {
+    "restify": "~2.8.3",
+    "bunyan": "~1.2.3",
+    "bunyan-logstash-tcp": "~0.3.2",
+    "promise-circuitbreaker": "~1.0.2"
+  }
+}
