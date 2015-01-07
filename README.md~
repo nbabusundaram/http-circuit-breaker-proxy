@@ -17,15 +17,16 @@ Circuit breaker proxy will help you to protect your https services from the case
 ## Step 1:  Run Sample Application : Address API
 
 
-1. Download the zip and extract the entire folders in to the directory.
+1. Download the source zip and extract the content in to the prefreable location.
 
 
+2. Open the new terminal and cd in to the extracted directory and cd in to the sub folder :Example App / Address API
+
+		
 		Example 
 	
 		nbabu@nbabu-Ubundu:~/http-circuit-breaker-proxy-master/Example App/AddressAPI$ 
 
-
-2. Open the new terminal and cd in to the Example App / Address API
 
 3. Run the following command to install the dependencies for the Address API applications #> npm install. It will install the libraires required for the application. 
 
