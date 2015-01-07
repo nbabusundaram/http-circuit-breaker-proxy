@@ -5,7 +5,7 @@ Circuit Breaker proxy for Http Services powered by promise-circuitbreaker
 
 Your system should have nodejs installed
 
-You should has admin/root access permission to run nodejs server
+You should have admin/root access permission to run nodejs server
 
 
 # Usage
